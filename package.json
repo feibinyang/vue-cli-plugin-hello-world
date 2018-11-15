@@ -1,0 +1,14 @@
+{
+  "name": "vue-cli-plugin-hello-world",
+  "version": "1.0.18",
+  "description": "试试vue-cli-plugin开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-cli-plugin"
+  ],
+  "author": "feibinyang",
+  "license": "MIT"
+}
