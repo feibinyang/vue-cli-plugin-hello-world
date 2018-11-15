@@ -1,10 +1,14 @@
 {
   "name": "vue-cli-plugin-hello-world",
-  "version": "1.0.18",
+  "version": "1.1.0",
   "description": "试试vue-cli-plugin开发",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feibinyang/vue-cli-plugin-hello-world.git"
   },
   "keywords": [
     "vue-cli-plugin"
